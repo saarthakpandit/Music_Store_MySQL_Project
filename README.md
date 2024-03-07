@@ -31,7 +31,7 @@ The objective of this project is to extract relevant data from a MySQL database 
 
    track.csv
 
-3. Design and implement SQL queries to extract required data based on specified criteria and filters.
+3. Design and implement SQL queries to extract required data based on specified criteria and filters (Refer to the schema diagram for relationship between the tables).
 
 4. Cleanse and transform the extracted data as necessary to ensure accuracy and consistency for analysis.
 
