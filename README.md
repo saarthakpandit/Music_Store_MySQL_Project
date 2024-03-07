@@ -53,3 +53,8 @@ The objective of this project is to extract relevant data from a MySQL database 
 
 # Conclusion
 In conclusion, this project will provide invaluable insights to drive informed decision-making and optimize business operations. Through careful extraction, cleansing, and analysis of data, we aim to uncover actionable understanding of provided data that will enhance customer experience, streamline processes, and ultimately drive revenue growth. Most importantly, it will help to create interactive dashboards using measurable KPIs which further can be used to make data-driven decisions for the store. This project represents a crucial step towards leveraging data to unlock the full potential of the music store, ensuring its competitiveness and success in a rapidly evolving market.
+
+# Contributors
+1. Sarthak Pandit
+
+2. Sharwari Potdar
